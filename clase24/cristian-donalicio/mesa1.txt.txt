@@ -1,0 +1,11 @@
+Que tipo de amenaza es?
+Es un malware de tipo ransomware llamda Ryuk.
+
+Como comienza y como se propaga esta amenaza?
+Comienza con un ataque de phising mediante un troyano y luego un trickbot infecta otros equipos.
+
+Hay más de una amenaza implicada?
+Si, participan un troyano Emotec, un trickbot que se encarga del robo de datos y por ultimo el Ryuk que encripta dichos datos.
+
+Que solucion o medida recomendarian?
+La mejor solucion es tener un backup de todos los datos ya que de esa manera no caeremos en el soborno del secuestro de datos.
